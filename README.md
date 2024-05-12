@@ -4,7 +4,7 @@ This is a web application, developed using Flask and NumbersAPI which allows use
 ![image](https://github.com/IrezD/python-flask-app-with-numbersAPI/assets/88015931/b80124de-163d-40b3-ad69-1faee4c99c6b)
 
 # How to run:
-After cloning repository, create a virutal environment to install flask and request module
+After cloning repository, create a virutal environment to install flask and requests package
 - Run: _pip install flask_
 - Run: _pip install requests_
 - Run: _python main.py_
