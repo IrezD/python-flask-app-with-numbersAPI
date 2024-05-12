@@ -1,0 +1,2 @@
+# python-flask-app-with-numbersAPI
+This is a web application, developed using Flask and the NumbersAPI. A Dockerfile is also included, which allows for the creation of a Docker image, facilitating ease of deployment and distribution.
