@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+.banner{
+    width: 50%;
+    height: 280px;
+    margin-left: 25%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+
+    background-color: #eae8e8;
+    border: 2px solid #3c3c3c;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    font-size: 22px;
+}
+
+.message-label{
+    font-size: 21px;
+}
+
+.message{
+    font-size: 22px;
+    font-style: italic;
+    color: blueviolet;
+}
+
+input[type="number"] {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button[type="submit"] {
+    padding: 10px 260px;
+    background-color: #171b18;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049;
+}
