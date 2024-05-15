@@ -10,5 +10,5 @@ After cloning repository, create a virutal environment to install flask and requ
 - Run: _python main.py_
 
  **Alternatively**, 
- - Use the docker image: _irezden/numberapi:external_
+ - Use the docker image: _irezden/numberapi:v2_
  - Port: _5000_
